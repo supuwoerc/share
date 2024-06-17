@@ -216,7 +216,7 @@ layout: table-of-contents
 <div style="display: grid; grid-template-columns: repeat(3, 1fr);height:calc(100% - 15px); gap: 10px;">
         <div style="display: grid; grid-template-rows: repeat(2, 1fr); gap: 10px;">
             <div><img src="/e4.png"  /></div>
-            <div><img src="/e5.png"  /></div>
+            <div><img src="/e6.jpg"  /></div>
         </div>
         <div><img src="/e3.png"  /></div>
         <div style="display: grid; grid-template-rows: repeat(2, 1fr); gap: 10px;">
