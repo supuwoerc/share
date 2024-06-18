@@ -292,5 +292,5 @@ layout: table-of-contents
 - **具体的实现路线？**  
   * 图片转换：[Iloveimg](https://www.iloveimg.com/)
   * 假想职业剧本：[GPT-4o语音对话和总结](https://chatgpt.com/)
-  * 构建：[GithubAction](https://docs.github.com/zh/actions)
+  * ~~构建：[GithubAction](https://docs.github.com/zh/actions)~~
   * 部署：[Vercel](https://vercel.com/)
